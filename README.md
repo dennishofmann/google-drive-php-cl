@@ -14,9 +14,9 @@ google-drive-php-cl
 * Create folder
 
 ### Usage
-*php google-drive-php-cl/google_download.php <id>+
-*php google-drive-php-cl/google_upload.php <parent id> <file path>+
-*php google-drive-php-cl/google_folder.php <parent id> <name>+
-*php google-drive-php-cl/google_list.php <parent id>+
+    $ php google-drive-php-cl/google_download.php <id>+
+    $ php google-drive-php-cl/google_upload.php <parent id> <file path>+
+    $ php google-drive-php-cl/google_folder.php <parent id> <name>+
+    $ php google-drive-php-cl/google_list.php <parent id>+
 
 Arguments marked with a + can be passed multiple times.
